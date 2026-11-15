@@ -4,6 +4,6 @@ This repository hosts default community health files, issue/PR configurations, a
 
 ### 💖 Funding & Sponsorship
 - **GitHub Sponsors**: [github.com/sponsors/Prajwal7-2002](https://github.com/sponsors/Prajwal7-2002)
-- **Buy Me a Coffee**: [buymeacoffee.com/prajwalpujari16](https://buymeacoffee.com/prajwalpujari16)
+- **Buy Me a Coffee**: [buymeacoffee.com/Prajwal2002](https://buymeacoffee.com/Prajwal2002)
 
 Configured via [`.github/FUNDING.yml`](.github/FUNDING.yml) to enable the native GitHub Sponsor button across all public repositories owned by `@Prajwal7-2002`.
